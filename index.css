@@ -1,0 +1,21 @@
+.container {
+    /* display: flex; */
+    margin-top: 200px;
+    margin-left: 600px;
+    justify-content: center;
+    
+}
+
+#color-box {
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+    margin-bottom: 20px;
+    background-color: aquamarine;
+}
+
+#change-color-btn {
+    padding: 10px;
+    text-align: center;
+    margin-left: 45px;
+}
